@@ -2,7 +2,7 @@ const Portfolio = function() {
 	function makeWords() {
 		var words = [
 			{
-				text: "ethical hacking",
+				text: "Ethical hacking",
 				weight: 10.3
 			}, {
 				text: "Web Development",
